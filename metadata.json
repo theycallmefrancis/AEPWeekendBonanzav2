@@ -1,0 +1,5 @@
+{
+  "name": "Money Train Weekend Bonanza",
+  "description": "An interactive dashboard visualizing the Dec 6-7 AEP Weekend Bonanza incentives, featuring a bonus calculator, commission tier visualization, and a virtual dice roll simulator.",
+  "requestFramePermissions": []
+}
